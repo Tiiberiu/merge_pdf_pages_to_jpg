@@ -1,3 +1,5 @@
+# This file is called article.py because I use it to convert article pdf's to dark theme images.
+
 import wx
 import os
 import sys
