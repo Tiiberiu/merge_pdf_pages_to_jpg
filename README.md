@@ -1,2 +1,6 @@
-# merge_pdf_pages_to_jpg
- merge all pdf pages tojpg
+# Merge pdf pages to jpg
+
+You might need to install wx, PIL & PyMuPDF 
+Does not require parameters (choose pdf file to convert).
+
+Does not work well with corrupt pdf, see https://github.com/pymupdf/PyMuPDF/issues/352
